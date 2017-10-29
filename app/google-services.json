@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "928831805356",
+    "project_id": "gaadicare-1509111129635"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928831805356:android:4cffadf63c4ecca2",
+        "android_client_info": {
+          "package_name": "com.tigeirisgaadicare.nimal.gaadicare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928831805356-sl8linsuag4m896btt5nli03l4c0ipht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tigeirisgaadicare.nimal.gaadicare",
+            "certificate_hash": "f0aa9e322fabe6d6198f2bc511902e9905e41dca"
+          }
+        },
+        {
+          "client_id": "928831805356-62n3ti0dfrriatb8uf7832e9v9n5tmqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Zb7zEwW1vr0k_VlNd4dNO82mEzv8BR4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

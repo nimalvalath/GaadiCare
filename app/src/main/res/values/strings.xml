@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GaadiCare</string>
+    <string name="google_maps_key">AIzaSyClheJwKjdvM2DTKmlvoOzRVagE_JJnDvI</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>
